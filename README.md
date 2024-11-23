@@ -4,6 +4,6 @@
 
 #### Thank to the Open-Source Courses: 
 
--[1] Computer Graphics Foundations - [GAMES 101](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html) by Lingqi Yan@ UCSB.
+* Computer Graphics Foundations - [GAMES 101](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html) by Lingqi Yan@ UCSB.
 
 
